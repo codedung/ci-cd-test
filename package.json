@@ -1,0 +1,27 @@
+{
+  "name": "0_ci-cd-test",
+  "version": "1.0.0",
+  "description": "ci-cd test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedung/ci-cd-test.git"
+  },
+  "author": "dungdung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedung/ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/codedung/ci-cd-test#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.30.0",
+    "eslint": "^9.30.0",
+    "eslint-config-prettier": "^10.1.5",
+    "globals": "^16.2.0",
+    "jest": "^30.0.3",
+    "prettier": "^3.6.2"
+  }
+}
