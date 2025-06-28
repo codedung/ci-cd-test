@@ -1,5 +1,4 @@
 function add(a, b) {
-  const resuit = a + b;
-  return resuit;
+  return a + b;
 }
 module.exports = { add };
